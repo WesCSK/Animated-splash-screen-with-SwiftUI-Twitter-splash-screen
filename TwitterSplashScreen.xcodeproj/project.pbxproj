@@ -12,7 +12,6 @@
 		2058179F296AD6FA00BF8558 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2058179E296AD6FA00BF8558 /* Assets.xcassets */; };
 		205817A2296AD6FA00BF8558 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 205817A1296AD6FA00BF8558 /* Preview Assets.xcassets */; };
 		205817A9296AD84400BF8558 /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205817A8296AD84400BF8558 /* HomeScreen.swift */; };
-		2078A46929913C0400F3A509 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2078A46829913C0400F3A509 /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,7 +21,6 @@
 		2058179E296AD6FA00BF8558 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		205817A1296AD6FA00BF8558 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		205817A8296AD84400BF8558 /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
-		2078A46829913C0400F3A509 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +58,6 @@
 				205817A8296AD84400BF8558 /* HomeScreen.swift */,
 				2058179E296AD6FA00BF8558 /* Assets.xcassets */,
 				205817A0296AD6FA00BF8558 /* Preview Content */,
-				2078A46829913C0400F3A509 /* Launch Screen.storyboard */,
 			);
 			path = TwitterSplashScreen;
 			sourceTree = "<group>";
@@ -131,7 +128,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2078A46929913C0400F3A509 /* Launch Screen.storyboard in Resources */,
 				205817A2296AD6FA00BF8558 /* Preview Assets.xcassets in Resources */,
 				2058179F296AD6FA00BF8558 /* Assets.xcassets in Resources */,
 			);
