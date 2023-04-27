@@ -11,7 +11,7 @@ In this tutorial, you'll learn how to create an animated splash screen like Twit
 
 <br/>
 
-[![](https://markdown-videos.deta.dev/youtube/LZRxEdJqXJg)](https://youtu.be/gDcGc3C7JBY)
+[![](https://markdown-videos.deta.dev/youtube/gDcGc3C7JBY)](https://youtu.be/gDcGc3C7JBY)
 
 <br/>
 <br/>
